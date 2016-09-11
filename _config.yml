@@ -4,7 +4,7 @@ email: thesalonexpo@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   The Salon Expo is a top of the line salon in Englewood, NJ.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://TheSalonExpo.com" # the base hostname & protocol for your site
 
 # User setting
 owner: The Salon Expo
@@ -25,7 +25,7 @@ styleseat:
   salon_url: https://www.styleseat.com/m/book/s/thesalonexpo-englewood6-nj
 
 # API settings
-google_api_key:
+google_api_key: AIzaSyCgabf-jS3tuWXovtvJqapsPpnMdVkQPFc
 
 # Build settings
 markdown: kramdown
