@@ -174,7 +174,7 @@ hr.small {
     -o-background-size: cover;
 }
 
-.header h2, .header h3 {
+.header h1, .header h3 {
     color: #D32F2F;
 }
 .header .text-vertical-center {
