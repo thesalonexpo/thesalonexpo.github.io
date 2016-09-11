@@ -25,7 +25,7 @@ styleseat:
   salon_url: https://www.styleseat.com/m/book/s/thesalonexpo-englewood6-nj
 
 # API settings
-google_api_key: AIzaSyCgabf-jS3tuWXovtvJqapsPpnMdVkQPFc
+google_api_key: AIzaSyBl6ZstLuE6kgyqY4uZNFEZUIxu9W0uE3Y
 
 # Build settings
 markdown: kramdown
