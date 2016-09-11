@@ -9,15 +9,15 @@ url: "" # the base hostname & protocol for your site
 # User setting
 owner: The Salon Expo
 email: thesalonexpo@gmail.com
-facebook_username:
-twitter_username:
-github_username:
+facebook_username: TheSalonExpo
+twitter_username: thesalonexpo
+github_username: thesalonexpo
 address:
-  - line: Englewood, New Jersey
-  - line:
+  - line: 76 W Palisade Ave.
+  - line: Englewood, New Jersey, 07631
   # Feel free to add more lines here
-telephone: 201 569-4409
-copyright:
+telephone: (201) 569-4409
+copyright: 2016
 
 # API settings
 google_api_key:
