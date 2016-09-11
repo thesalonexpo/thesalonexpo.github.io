@@ -268,3 +268,10 @@ hr.small {
 footer {
     padding: 100px 0;
 }
+
+/** Overwrites to bootstrap styles */
+.bg-primary {
+    background-color: #D32F2F;
+}
+
+
