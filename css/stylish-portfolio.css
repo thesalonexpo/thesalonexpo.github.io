@@ -176,10 +176,11 @@ hr.small {
 
 .header h1, .header h3 {
     color: #D32F2F;
+    background: rgba(0,0,0,0.25);
 }
-.header .text-vertical-center {
-    background: rgba(255,255,255,0.25);
-}
+/*.header .text-vertical-center {
+    background: rgba(0,0,0,0.25);
+}*/
 
 /* About */
 
