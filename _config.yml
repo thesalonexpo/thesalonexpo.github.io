@@ -17,7 +17,10 @@ address:
   - line: Englewood, New Jersey, 07631
   # Feel free to add more lines here
 telephone: (201) 569-4409
-copyright: 2016
+copyright: TheSalonExpo
+styleseat:
+  url: https://www.styleseat.com/v/
+  salon_url: https://www.styleseat.com/m/book/s/thesalonexpo-englewood6-nj
 
 # API settings
 google_api_key:
