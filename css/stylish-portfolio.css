@@ -17,6 +17,13 @@
 .secondary-text-color  { color: #757575; }
 .divider-color         { border-color: #BDBDBD; }
 
+a {
+    color: #F44336;
+}
+
+a:focus, a:hover {
+    color: #D32F2F;
+}
 
 html,
 body {
