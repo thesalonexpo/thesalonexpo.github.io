@@ -18,8 +18,9 @@ address:
   # Feel free to add more lines here
 telephone: (201) 569-4409
 copyright: TheSalonExpo
-styleseat_salon_url: https://www.styleseat.com/m/book/s/thesalonexpo-englewood6-nj
-styleseat_url: https://www.styleseat.com/v/
+styleseat:
+  url: https://www.styleseat.com/v/
+  salon_url: https://www.styleseat.com/m/book/s/thesalonexpo-englewood6-nj
 
 # API settings
 google_api_key:
