@@ -33,12 +33,12 @@ team:
       position: Master Barber
       specialties: Barbering and Threading
   - employee:
-      name: Alejandra
-      img: team/alejandra.jpg
-      styleseat_url: alejandramarin
-      info:
-        position: Professional Cosmotologist
-        specialties: Children Manicure and Pedicure
+    name: Alejandra
+    img: team/alejandra.jpg
+    styleseat_url: alejandramarin
+    info:
+      position: Professional Cosmotologist
+      specialties: Children Manicure and Pedicure
   - employee:
     name: Minerva
     img: team/minerva.jpg
