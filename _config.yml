@@ -80,7 +80,7 @@ team:
       specialties: Threading
 
 # API settings
-google_api_key: AIzaSyBl6ZstLuE6kgyqY4uZNFEZUIxu9W0uE3Y
+google_api_key: AIzaSyCqWFE4rQFKvlE7YPMqC4WTi0Sd9eeiVDI
 
 # Build settings
 markdown: kramdown
