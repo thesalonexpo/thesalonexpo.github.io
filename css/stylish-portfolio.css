@@ -200,8 +200,14 @@ hr.small {
     padding: 50px 0;
 }
 
-.service-item {
+.service-item,
+.team-item {
     margin-bottom: 30px;
+}
+
+.team-img {
+    overflow: hidden;
+    border-radius: 50%;
 }
 
 /* Callout */
