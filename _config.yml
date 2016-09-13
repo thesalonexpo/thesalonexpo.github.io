@@ -24,6 +24,50 @@ styleseat:
   url: https://www.styleseat.com/v/
   salon_url: https://www.styleseat.com/m/book/s/thesalonexpo-englewood6-nj
 
+team:
+  - employee:
+    name: Richard
+    img: team/richard.jpg
+    info:
+      position: Master Barber
+      specialties: Barbering and Threading
+  - employee:
+      name: Alejandra
+      img: team/alejandra.jpg
+      info:
+        position: Professional Cosmotologist
+        specialties: Children Manicure and Pedicure
+  - employee:
+    name: Minerva
+    img: team/minerva.jpg
+    info:
+      position: Professional Hair Stylist
+      specialties: Curly Hair
+  - employee:
+    name: Nelson
+    img: team/nelson.jpg
+    info:
+      position: Professional Hair Stylist
+      specialties: Long Haircuts and Color
+  - employee:
+    name: Sandro
+    img: team/sandro.jpg
+    info:
+      position: Professional Hair Stylist and Barber
+      specialties: Short Haircuts and Color
+  - employee:
+    name: Areli
+    img: team/areli.jpg
+    info:
+      position: Professional Cosmotologist
+      specialties: Manicure and Pedicure
+  - employee:
+    name: Patricia
+    img: team/patricia.jpg
+    info:
+      position: Professional Cosmotologist
+      specialties: Manicure and Pedicure
+
 # API settings
 google_api_key: AIzaSyBl6ZstLuE6kgyqY4uZNFEZUIxu9W0uE3Y
 
