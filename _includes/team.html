@@ -14,15 +14,15 @@
                 <i class="fa fa-sun-o fa-stack-1x text-primary"></i>
               </span>
                 <h4>
-                  <strong>{employee.name}</strong>
+                  <strong>{{employee.name}}</strong>
                 </h4>
                 <p>
-                  {employee.info.position}
+                  {{employee.info.position}}
                 </p>
                 <p>
-                  {employee.info.specialties}
+                  {{employee.info.specialties}}
                 </p>
-                <a href="{site.styleseat.url}{employee.styleseat_url}" class="btn btn-light">Book {employee.name} Now</a>
+                <a href="{{site.styleseat.url}}{{employee.styleseat_url}}" class="btn btn-light">Book {{employee.name}} Now</a>
               </div>
             </div>
           {% endfor %}
