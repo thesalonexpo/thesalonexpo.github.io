@@ -15,9 +15,9 @@ github_username: thesalonexpo
 yelp_bizname: the-salon-expo-englewood
 instagram_username: thesalonexpo
 hours:
-  - line: Mon-Wed: 10am-7pm
-  - line: Thurs-Sat: 9am-8pm
-  - line: Sunday: 10am-3pm
+  - line: "Mon-Wed: 10am-7pm"
+  - line: "Thurs-Sat: 9am-8pm"
+  - line: "Sunday: 10am-3pm"
 address:
   - line: 76 W Palisade Ave.
   - line: Englewood, New Jersey, 07631
