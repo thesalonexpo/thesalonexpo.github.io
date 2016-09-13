@@ -205,10 +205,11 @@ hr.small {
     margin-bottom: 30px;
 }
 
-.team-img {
+.team-item .fa-stack {
     overflow: hidden;
     border-radius: 50%;
 }
+.team-img {}
 
 /* Callout */
 
