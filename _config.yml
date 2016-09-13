@@ -37,12 +37,12 @@ team:
       position: Master Barber
       specialties: Barbering and Threading
   - employee:
-    name: Alejandra
-    img: alejandra.jpg
-    styleseat_url: alejandramarin
+    name: Nelson
+    img: nelson.jpg
+    styleseat_url: neslonmolina
     info:
-      position: Professional Cosmotologist
-      specialties: Children Manicure and Pedicure
+      position: Professional Hair Stylist
+      specialties: Long Haircuts and Color
   - employee:
     name: Minerva
     img: minerva.jpg
@@ -51,19 +51,12 @@ team:
       position: Professional Hair Stylist
       specialties: Curly Hair
   - employee:
-    name: Nelson
-    img: nelson.jpg
-    styleseat_url: neslonmolina
+    name: Alejandra
+    img: alejandra.jpg
+    styleseat_url: alejandramarin
     info:
-      position: Professional Hair Stylist
-      specialties: Long Haircuts and Color
-  - employee:
-    name: Claudia
-    img: claudiamontanez.jpg
-    styleseat_url: claudiamontanez
-    info:
-      position: Professional, Certified Eyebrow Threader / Consultant
-      specialties: Threading
+      position: Professional Cosmotologist
+      specialties: Children Manicure and Pedicure
   - employee:
     name: Areli
     img: areli.jpg
@@ -78,6 +71,13 @@ team:
     info:
       position: Professional Cosmotologist
       specialties: Manicure and Pedicure
+  - employee:
+    name: Claudia
+    img: claudiamontanez.jpg
+    styleseat_url: claudiamontanez
+    info:
+      position: Professional, Certified Eyebrow Threader / Consultant
+      specialties: Threading
 
 # API settings
 google_api_key: AIzaSyBl6ZstLuE6kgyqY4uZNFEZUIxu9W0uE3Y
