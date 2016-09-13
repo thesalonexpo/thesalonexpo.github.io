@@ -4,6 +4,11 @@
       <div class="col-lg-10 col-lg-offset-1 text-center">
         <h4><strong>{{ site.owner }}</strong>
         </h4>
+        <p class="text-left">
+          {% for hour in site.hours %}
+            {{ hours.line }}<br>
+          {% endfor %}
+        </p>
         <p>
           {% for address in site.address %}
           {{ address.line }}<br>
