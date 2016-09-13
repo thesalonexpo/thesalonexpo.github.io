@@ -58,12 +58,12 @@ team:
       position: Professional Hair Stylist
       specialties: Long Haircuts and Color
   - employee:
-    name: Sandro
-    img: sandro.jpg
-    styleseat_url: sandro2
+    name: Claudia
+    img: claudiamontanez.jpg
+    styleseat_url: claudiamontanez
     info:
-      position: Professional Hair Stylist and Barber
-      specialties: Short Haircuts and Color
+      position: Professional, Certified Eyebrow Threader / Consultant
+      specialties: Threading
   - employee:
     name: Areli
     img: areli.jpg
