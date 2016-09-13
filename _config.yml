@@ -27,49 +27,49 @@ styleseat:
 team:
   - employee:
     name: Richard
-    img: team/richard.jpg
+    img: richard.jpg
     styleseat_url: richardhurtado
     info:
       position: Master Barber
       specialties: Barbering and Threading
   - employee:
     name: Alejandra
-    img: team/alejandra.jpg
+    img: alejandra.jpg
     styleseat_url: alejandramarin
     info:
       position: Professional Cosmotologist
       specialties: Children Manicure and Pedicure
   - employee:
     name: Minerva
-    img: team/minerva.jpg
+    img: minerva.jpg
     styleseat_url: minervalantigua
     info:
       position: Professional Hair Stylist
       specialties: Curly Hair
   - employee:
     name: Nelson
-    img: team/nelson.jpg
+    img: nelson.jpg
     styleseat_url: neslonmolina
     info:
       position: Professional Hair Stylist
       specialties: Long Haircuts and Color
   - employee:
     name: Sandro
-    img: team/sandro.jpg
+    img: sandro.jpg
     styleseat_url: sandro2
     info:
       position: Professional Hair Stylist and Barber
       specialties: Short Haircuts and Color
   - employee:
     name: Areli
-    img: team/areli.jpg
+    img: areli.jpg
     styleseat_url: arelimunguia
     info:
       position: Professional Cosmotologist
       specialties: Manicure and Pedicure
   - employee:
     name: Patricia
-    img: team/patricia.jpg
+    img: patricia.jpg
     styleseat_url: patriciagomez2
     info:
       position: Professional Cosmotologist
