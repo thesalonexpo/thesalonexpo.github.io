@@ -17,6 +17,10 @@
 .secondary-text-color  { color: #757575; }
 .divider-color         { border-color: #BDBDBD; }
 
+.creepster {
+    font-family: 'Creepster', cursive;
+}
+
 a {
     color: #D32F2F;
 }

@@ -1,0 +1,16 @@
+{% if salon_specials.available === true %}
+    <aside class="callout">
+      <div class="text-vertical-center">
+        {{for text in salon_specials.info.text}}
+            <h1>{{text.line}}</h1>
+        {{endfor}}
+        {% if salon_specials.info.cta %}
+            <div class="col-lg-12 text-center">
+                <a href="{{ site.salon_specials.info.cta.url }}" class="btn btn-lg btn-light" target="_blank">
+                    {{ site.salon_specials.info.cta.text }}
+                </a>
+              </div>
+        {% endif %}
+      </div>
+    </aside>
+{% endif %}

@@ -79,6 +79,20 @@ team:
       position: Professional, Certified Eyebrow Threader / Consultant
       specialties: Threading
 
+salon_specials:
+  available: true
+  # running: halloween
+  info:
+    name: Halloween
+    text:
+      - line: Halloween Makeup
+    img:
+    cta:
+      text: Book Now!
+      url: https://www.styleseat.com/v/luarahoyos
+
+
+
 # API settings
 google_api_key: AIzaSyCqWFE4rQFKvlE7YPMqC4WTi0Sd9eeiVDI
 
