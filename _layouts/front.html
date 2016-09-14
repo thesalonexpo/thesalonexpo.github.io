@@ -8,7 +8,13 @@
   {% include navigation.html %}
   {% include header.html %}
   {% include about.html %}
-  {% include callout.html %}
+
+  {% if site.salon_specials.available == true %}
+    {% include special.html %}
+  {% else %}
+    {% include callout.html %}
+  {% endif %}
+
   {% include team.html %}
   {% include services.html %}
   {% include portfolio.html %}

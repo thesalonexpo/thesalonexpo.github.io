@@ -78,12 +78,19 @@ team:
     info:
       position: Professional, Certified Eyebrow Threader / Consultant
       specialties: Threading
+  # - employee:
+  #   name: Sam
+  #   img: sam.jpg
+  #   styleseat_url: sam
+  #   info:
+  #     position: Barber
+  #     specialties: Fades and Beards
 
 salon_specials:
   available: true
-  # running: halloween
   info:
     name: Halloween
+    class: creepster
     text:
       - line: Halloween Makeup
     img:
