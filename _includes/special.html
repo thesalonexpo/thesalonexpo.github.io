@@ -1,8 +1,10 @@
 <aside class="halloween">
   <div class="text-vertical-center">
-    {% for text in site.salon_specials.info.text %}
-        <h1 class="{{ site.salon_specials.info.class }}">{{ text.line }}</h1>
-    {% endfor %}
+    <h1 class="{{ site.salon_specials.info.class }}">
+        {% for text in site.salon_specials.info.text %}
+            {{ text.line }}
+        {% endfor %}
+    </h1>
 
     {% if site.salon_specials.info.cta %}
         <div class="col-lg-12 text-center">
