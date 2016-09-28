@@ -26,6 +26,7 @@ telephone: (201) 569-4409
 copyright: TheSalonExpo
 styleseat:
   url: https://www.styleseat.com/v/
+  bok_url: https://www.styleseat.com/m/book/v/
   salon_url: https://www.styleseat.com/m/book/s/thesalonexpo-englewood6-nj
 
 team:
@@ -96,7 +97,7 @@ salon_specials:
     img:
     cta:
       text: Book Now!
-      url: https://www.styleseat.com/v/luarahoyos
+      url: https://www.styleseat.com/m/book/v/luarahoyos
 
 
 
