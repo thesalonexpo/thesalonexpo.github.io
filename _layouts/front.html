@@ -9,7 +9,7 @@
   {% include header.html %}
   {% include about.html %}
 
-  {% if site.salon_specials.available == true %}
+  {% if site.salon_specials.available %}
     {% include special.html %}
   {% else %}
     {% include callout.html %}
