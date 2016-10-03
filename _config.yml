@@ -88,7 +88,7 @@ team:
   #     specialties: Fades and Beards
 
 salon_specials:
-  available: true
+  available: false
   info:
     name: Halloween
     class: creepster
