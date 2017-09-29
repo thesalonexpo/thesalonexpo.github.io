@@ -23,6 +23,7 @@ address:
   - line: Englewood, New Jersey, 07631
   # Feel free to add more lines here
 telephone: (201) 569-4409
+telephone_link: 201-569-4409
 copyright: TheSalonExpo
 styleseat:
   url: https://www.styleseat.com/v/
@@ -73,12 +74,13 @@ team:
       position: Professional Cosmotologist
       specialties: Manicure and Pedicure
   - employee:
-    name: Claudia
-    img: claudiamontanez.jpg
-    styleseat_url: claudiamontanez
+    name: Gustavo
+    img: gustavonaranjo.jpg
+    # styleseat_url: gustavonaranjo
+    work_num: (201) 569-4409
     info:
-      position: Professional, Certified Eyebrow Threader / Consultant
-      specialties: Threading
+      position: Professional Hair Stylist
+      specialties: Long Haircuts and Color
   # - employee:
   #   name: Sam
   #   img: sam.jpg

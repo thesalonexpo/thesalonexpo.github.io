@@ -21,7 +21,15 @@
                 <p>
                   {{employee.info.specialties}}
                 </p>
-                <a href="{{site.styleseat.book_url}}{{employee.styleseat_url}}" target="_blank" class="btn btn-dark">Book {{employee.name}} Now</a>
+                {% if employee.styleseat_url %}
+                  <a href="{{site.styleseat.book_url}}{{employee.styleseat_url}}" target="_blank" class="btn btn-dark">Book {{employee.name}} Now</a>
+                {% endif %}
+
+                {% if employee.work_num %}
+                  <a href="tel:{{ site.work_num }}" class="btn btn-dark">
+                    Book {{employee.name}} Now
+                  </a>
+                {% endif %}
               </div>
             </div>
           {% endfor %}
