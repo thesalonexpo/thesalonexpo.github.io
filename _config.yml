@@ -94,13 +94,13 @@ team:
     info:
       position: Barber
       specialties: Men Fades and Shape ups
-  - employee:
-    name: Sam
-    img: sam.jpg
-    styleseat_url: sam
-    info:
-      position: Barber
-      specialties: Fades and Beards
+  # - employee:
+  #   name: Sam
+  #   img: sam.jpg
+  #   styleseat_url: sam
+  #   info:
+  #     position: Barber
+  #     specialties: Fades and Beards
   
 salon_specials:
   available: false
