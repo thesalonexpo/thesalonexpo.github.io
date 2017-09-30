@@ -83,14 +83,14 @@ team:
   - employee:
     name: Daniel
     img: danielgarcia.jpg
-    work_num: tel:201-569-4409
+    work_num_link: tel:201-569-4409
     info:
       position: Barber
       specialties: Men and Children cuts
   - employee:
     name: Noel
     img: noelbrown.jpg
-    work_num: tel:201-569-4409
+    work_num_link: tel:201-569-4409
     info:
       position: Barber
       specialties: Men Fades and Shape ups
