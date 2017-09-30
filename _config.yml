@@ -45,62 +45,62 @@ team:
     info:
       position: Professional Hair Stylist
       specialties: Long Haircuts and Color
-  # - employee:
-  #   name: Minerva
-  #   img: minerva.jpg
-  #   styleseat_url: minervalantigua
-  #   info:
-  #     position: Professional Hair Stylist
-  #     specialties: Curly Hair
-  #  - employee:
-  #   name: Areli
-  #   img: areli.jpg
-  #   styleseat_url: arelimunguia
-  #   info:
-  #     position: Professional Cosmotologist
-  #     specialties: Manicure and Pedicure
-  # - employee:
-  #   name: Patricia
-  #   img: patricia.jpg
-  #   styleseat_url: patriciagomez2
-  #   info:
-  #     position: Professional Cosmotologist
-  #     specialties: Manicure and Pedicure
-  # - employee:
-  #   name: Alejandra
-  #   img: alejandra.jpg
-  #   styleseat_url: alejandramarin
-  #   info:
-  #     position: Manicurist
-  #     specialties: Children Manicure and Pedicure
-  # - employee:
-  #   name: Gustavo
-  #   img_placehold: true
-  #   work_num_link: 201-569-4409
-  #   info:
-  #     position: Professional Hair Stylist
-  #     specialties: Color and Highlights
-  # - employee:
-  #   name: Daniel
-  #   img_placehold: true
-  #   work_num_link: 201-569-4409
-  #   info:
-  #     position: Barber
-  #     specialties: Men and Children cuts
-  # - employee:
-  #   name: Noel
-  #   img_placehold: true
-  #   work_num_link: 201-569-4409
-  #   info:
-  #     position: Barber
-  #     specialties: Men Fades and Shape ups
-  # - employee:
-  #   name: Sam
-  #   img: sam.jpg
-  #   styleseat_url: sam
-  #   info:
-  #     position: Barber
-  #     specialties: Fades and Beards
+  - employee:
+    name: Minerva
+    img: minerva.jpg
+    styleseat_url: minervalantigua
+    info:
+      position: Professional Hair Stylist
+      specialties: Curly Hair
+  - employee:
+    name: Areli
+    img: areli.jpg
+    styleseat_url: arelimunguia
+    info:
+      position: Professional Cosmotologist
+      specialties: Manicure and Pedicure
+  - employee:
+    name: Patricia
+    img: patricia.jpg
+    styleseat_url: patriciagomez2
+    info:
+      position: Professional Cosmotologist
+      specialties: Manicure and Pedicure
+  - employee:
+    name: Alejandra
+    img: alejandra.jpg
+    styleseat_url: alejandramarin
+    info:
+      position: Manicurist
+      specialties: Children Manicure and Pedicure
+  - employee:
+    name: Gustavo
+    img_placehold: true
+    work_num_link: 201-569-4409
+    info:
+      position: Professional Hair Stylist
+      specialties: Color and Highlights
+  - employee:
+    name: Daniel
+    img_placehold: true
+    work_num_link: 201-569-4409
+    info:
+      position: Barber
+      specialties: Men and Children cuts
+  - employee:
+    name: Noel
+    img_placehold: true
+    work_num_link: 201-569-4409
+    info:
+      position: Barber
+      specialties: Men Fades and Shape ups
+  - employee:
+    name: Sam
+    img: sam.jpg
+    styleseat_url: sam
+    info:
+      position: Barber
+      specialties: Fades and Beards
   
 salon_specials:
   available: false
