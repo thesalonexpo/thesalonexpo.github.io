@@ -73,27 +73,27 @@ team:
     info:
       position: Manicurist
       specialties: Children Manicure and Pedicure
-  - employee:
-    name: Gustavo
-    img_placehold: true
-    work_num_link: 201-569-4409
-    info:
-      position: Professional Hair Stylist
-      specialties: Color and Highlights
-  - employee:
-    name: Daniel
-    img_placehold: true
-    work_num_link: 201-569-4409
-    info:
-      position: Barber
-      specialties: Men and Children cuts
-  - employee:
-    name: Noel
-    img_placehold: true
-    work_num_link: 201-569-4409
-    info:
-      position: Barber
-      specialties: Men Fades and Shape ups
+  # - employee:
+  #   name: Gustavo
+  #   img_placehold: true
+  #   work_num_link: 201-569-4409
+  #   info:
+  #     position: Professional Hair Stylist
+  #     specialties: Color and Highlights
+  # - employee:
+  #   name: Daniel
+  #   img_placehold: true
+  #   work_num_link: 201-569-4409
+  #   info:
+  #     position: Barber
+  #     specialties: Men and Children cuts
+  # - employee:
+  #   name: Noel
+  #   img_placehold: true
+  #   work_num_link: 201-569-4409
+  #   info:
+  #     position: Barber
+  #     specialties: Men Fades and Shape ups
   # - employee:
   #   name: Sam
   #   img: sam.jpg
