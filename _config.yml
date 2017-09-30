@@ -101,7 +101,7 @@ team:
     info:
       position: Barber
       specialties: Fades and Beards
-
+  
 salon_specials:
   available: false
   info:
