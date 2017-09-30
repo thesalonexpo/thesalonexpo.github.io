@@ -75,21 +75,24 @@ team:
       specialties: Children Manicure and Pedicure
   - employee:
     name: Gustavo
-    img: gustavonaranjo.jpg
+    # img: gustavonaranjo.jpg
+    img_placehold: true
     work_num_link: tel:201-569-4409
     info:
       position: Professional Hair Stylist
       specialties: Color and Highlights
   - employee:
     name: Daniel
-    img: danielgarcia.jpg
+    # img: danielgarcia.jpg
+    img_placehold: true
     work_num_link: tel:201-569-4409
     info:
       position: Barber
       specialties: Men and Children cuts
   - employee:
     name: Noel
-    img: noelbrown.jpg
+    # img: noelbrown.jpg
+    img_placehold: true
     work_num_link: tel:201-569-4409
     info:
       position: Barber

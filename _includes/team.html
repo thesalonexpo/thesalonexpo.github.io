@@ -9,9 +9,17 @@
           {% for employee in site.team %}
             <div class="col-md-3 col-sm-6">
               <div class="team-item">
+                {% if employee.img %}
                 <span class="fa-stack fa-5x">
                   <img class="img-portfolio img-responsive team-img" src="img/team/{{employee.img}}">
                 </span>
+                {% endif %}
+                {% if employee.img_placehold %}
+                <span class="fa-stack fa-4x">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-male fa-stack-1x text-primary"></i>
+                </span>
+                {% endif %}
                 <h4>
                   <strong>{{employee.name}}</strong>
                 </h4>
