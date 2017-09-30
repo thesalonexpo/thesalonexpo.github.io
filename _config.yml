@@ -30,49 +30,49 @@ styleseat:
   book_url: https://www.styleseat.com/m/book/v/
   salon_url: https://www.styleseat.com/m/book/s/thesalonexpo-englewood6-nj
 
-team:
-  - employee:
-    name: Richard
-    img: richard.jpg
-    styleseat_url: richardhurtado
-    info:
-      position: Master Barber
-      specialties: Barbering and Threading
-  - employee:
-    name: Nelson
-    img: nelson.jpg
-    styleseat_url: nelsonmolina
-    info:
-      position: Professional Hair Stylist
-      specialties: Long Haircuts and Color
-  - employee:
-    name: Minerva
-    img: minerva.jpg
-    styleseat_url: minervalantigua
-    info:
-      position: Professional Hair Stylist
-      specialties: Curly Hair
-   - employee:
-    name: Areli
-    img: areli.jpg
-    styleseat_url: arelimunguia
-    info:
-      position: Professional Cosmotologist
-      specialties: Manicure and Pedicure
-  - employee:
-    name: Patricia
-    img: patricia.jpg
-    styleseat_url: patriciagomez2
-    info:
-      position: Professional Cosmotologist
-      specialties: Manicure and Pedicure
-  - employee:
-    name: Alejandra
-    img: alejandra.jpg
-    styleseat_url: alejandramarin
-    info:
-      position: Manicurist
-      specialties: Children Manicure and Pedicure
+# team:
+#   - employee:
+#     name: Richard
+#     img: richard.jpg
+#     styleseat_url: richardhurtado
+#     info:
+#       position: Master Barber
+#       specialties: Barbering and Threading
+#   - employee:
+#     name: Nelson
+#     img: nelson.jpg
+#     styleseat_url: nelsonmolina
+#     info:
+#       position: Professional Hair Stylist
+#       specialties: Long Haircuts and Color
+#   - employee:
+#     name: Minerva
+#     img: minerva.jpg
+#     styleseat_url: minervalantigua
+#     info:
+#       position: Professional Hair Stylist
+#       specialties: Curly Hair
+#    - employee:
+#     name: Areli
+#     img: areli.jpg
+#     styleseat_url: arelimunguia
+#     info:
+#       position: Professional Cosmotologist
+#       specialties: Manicure and Pedicure
+#   - employee:
+#     name: Patricia
+#     img: patricia.jpg
+#     styleseat_url: patriciagomez2
+#     info:
+#       position: Professional Cosmotologist
+#       specialties: Manicure and Pedicure
+#   - employee:
+#     name: Alejandra
+#     img: alejandra.jpg
+#     styleseat_url: alejandramarin
+#     info:
+#       position: Manicurist
+#       specialties: Children Manicure and Pedicure
   # - employee:
   #   name: Gustavo
   #   img_placehold: true
