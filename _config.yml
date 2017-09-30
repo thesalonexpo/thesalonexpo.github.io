@@ -30,14 +30,14 @@ styleseat:
   book_url: https://www.styleseat.com/m/book/v/
   salon_url: https://www.styleseat.com/m/book/s/thesalonexpo-englewood6-nj
 
-# team:
-#   - employee:
-#     name: Richard
-#     img: richard.jpg
-#     styleseat_url: richardhurtado
-#     info:
-#       position: Master Barber
-#       specialties: Barbering and Threading
+team:
+  - employee:
+    name: Richard
+    img: richard.jpg
+    styleseat_url: richardhurtado
+    info:
+      position: Master Barber
+      specialties: Barbering and Threading
 #   - employee:
 #     name: Nelson
 #     img: nelson.jpg
