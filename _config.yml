@@ -38,13 +38,13 @@ team:
       info:
         position: Master Barber
         specialties: Barbering and Threading
-  # - employee:
-  #   name: Nelson
-  #   img: nelson.jpg
-  #   styleseat_url: nelsonmolina
-  #   info:
-  #     position: Professional Hair Stylist
-  #     specialties: Long Haircuts and Color
+  - employee:
+      name: Nelson
+      img: nelson.jpg
+      styleseat_url: nelsonmolina
+      info:
+        position: Professional Hair Stylist
+        specialties: Long Haircuts and Color
   # - employee:
   #   name: Minerva
   #   img: minerva.jpg
