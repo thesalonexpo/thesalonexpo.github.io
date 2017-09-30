@@ -52,14 +52,7 @@ team:
     info:
       position: Professional Hair Stylist
       specialties: Curly Hair
-  - employee:
-    name: Alejandra
-    img: alejandra.jpg
-    styleseat_url: alejandramarin
-    info:
-      position: Professional Cosmotologist
-      specialties: Children Manicure and Pedicure
-  - employee:
+   - employee:
     name: Areli
     img: areli.jpg
     styleseat_url: arelimunguia
@@ -74,13 +67,33 @@ team:
       position: Professional Cosmotologist
       specialties: Manicure and Pedicure
   - employee:
+    name: Alejandra
+    img: alejandra.jpg
+    styleseat_url: alejandramarin
+    info:
+      position: Manicurist
+      specialties: Children Manicure and Pedicure
+  - employee:
     name: Gustavo
     img: gustavonaranjo.jpg
-    # styleseat_url: gustavonaranjo
-    work_num: (201) 569-4409
+    work_num_link: tel:201-569-4409
     info:
       position: Professional Hair Stylist
-      specialties: Long Haircuts and Color
+      specialties: Color and Highlights
+  - employee:
+    name: Daniel
+    img: danielgarcia.jpg
+    work_num: tel:201-569-4409
+    info:
+      position: Barber
+      specialties: Men and Children cuts
+  - employee:
+    name: Noel
+    img: noelbrown.jpg
+    work_num: tel:201-569-4409
+    info:
+      position: Barber
+      specialties: Men Fades and Shape ups
   # - employee:
   #   name: Sam
   #   img: sam.jpg
