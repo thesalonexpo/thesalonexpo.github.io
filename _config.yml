@@ -33,7 +33,7 @@ styleseat:
 team:
   - employee:
     name: Johnny
-    img_placehold: true
+    img: johnny.jpg
     work_num_link: 201-569-4409
     info:
       position: Barber
@@ -54,7 +54,7 @@ team:
       specialties: Barbering and Threading
   - employee:
     name: Gustavo
-    img_placehold: true
+    img_placehold: true # img: gustavo.jpg
     work_num_link: 201-569-4409
     info:
       position: Professional Hair Stylist
