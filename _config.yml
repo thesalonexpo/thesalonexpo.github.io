@@ -34,7 +34,7 @@ team:
   - employee:
     name: Johnny
     img: johnny.jpg
-    work_num_link: 201-569-4409
+    styleseat_url: johnnymo
     info:
       position: Barber
       specialties: Men and Children cuts
