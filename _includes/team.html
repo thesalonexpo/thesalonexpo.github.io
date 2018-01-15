@@ -11,7 +11,7 @@
               <div class="team-item">
                 {% if employee.img %}
                   <span class="fa-stack fa-5x">
-                    <img class="img-portfolio img-responsive team-img" src="img/team/{{employee.img}}">
+                    <img class="img-portfolio img-responsive team-img team-img-{{employee.name}}" src="img/team/{{employee.img}}">
                   </span>
                 {% endif %}
                 {% if employee.img_placehold %}

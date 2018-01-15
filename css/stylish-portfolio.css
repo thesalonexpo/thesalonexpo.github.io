@@ -228,6 +228,16 @@ hr.small {
 }
 .team-img {}
 
+.team-img-gustavo {
+    width: 120%;
+    transform: translate(-11px, -18px);
+}
+
+.team-img-danny {
+    width: 120%;
+    transform: translate(-4px, -18px);
+}
+
 /* Callout */
 
 .callout {
