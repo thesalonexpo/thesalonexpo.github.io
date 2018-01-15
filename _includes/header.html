@@ -1,6 +1,11 @@
 <header id="top" class="header">
   <div class="text-vertical-center">
     <h1>The Salon Expo</h1>
+    <p>
+      {% for address in site.address %}
+      {{ address.line }}<br>
+      {% endfor %}
+    </p>
     <br>
     <a href="#about" class="btn btn-dark btn-lg">Find Out More</a>
   </div>
