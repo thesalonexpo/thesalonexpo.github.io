@@ -1,17 +1,18 @@
 <header id="top" class="header">
   <div class="text-vertical-center">
     <h1><span class="white-text">The Salon</span> Expo</h1>
+    <br>
     <h4 class="address">
       {% for address in site.address %}
       {{ address.line }}<br>
       {% endfor %}
     </h4>
-    <h4 class="phone">
+    <h3 class="phone">
       <i class="fa fa-phone fa-fw"></i>
       <a href="tel:{{ site.telephone_link }}">
         {{ site.telephone }}
       </a>
-    </h4>
+    </h3>
     <br>
     <a href="#portfolio" class="btn btn-dark btn-lg">See our work.</a>
   </div>
