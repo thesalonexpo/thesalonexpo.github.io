@@ -228,13 +228,9 @@ hr.small {
 }
 .team-img {}
 
-.team-img-Gustavo {
-    width: 120%;
-    transform: translate(0px, -18px);
-}
-
+.team-img-Johnny,
+.team-img-Gustavo,
 .team-img-Danny {
-    width: 120%;
     transform: translate(0px, -18px);
 }
 
