@@ -196,6 +196,11 @@ hr.small {
     color: #fff;
 }
 
+.header .address,
+/*.header .phone {
+    font-size:;
+}*/
+
 .white-text {
     color: #fff;
 }
