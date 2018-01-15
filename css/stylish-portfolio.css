@@ -230,12 +230,12 @@ hr.small {
 
 .team-img-Gustavo {
     width: 120%;
-    transform: translate(-11px, -18px);
+    transform: translate(0px, -18px);
 }
 
 .team-img-Danny {
     width: 120%;
-    transform: translate(-4px, -18px);
+    transform: translate(0px, -18px);
 }
 
 /* Callout */
