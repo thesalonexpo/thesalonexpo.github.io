@@ -196,10 +196,9 @@ hr.small {
     color: #fff;
 }
 
-.header .address,
-/*.header .phone {
-    font-size:;
-}*/
+.header .phone i {
+    color: #D32F2F;
+}
 
 .white-text {
     color: #fff;
