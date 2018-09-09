@@ -1,6 +1,5 @@
 # Site settings
 title: The Salon Expo
-email: thesalonexpo@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   The Salon Expo is a top of the line salon in Englewood, NJ.
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -25,10 +24,21 @@ address:
 telephone: (201) 569-4409
 telephone_link: 201-569-4409
 copyright: TheSalonExpo
+
+# VENDOR -------------------------
+vendor:
+  name: phone
+
 styleseat:
   url: https://www.styleseat.com/v/
   book_url: https://www.styleseat.com/m/book/v/
   salon_url: https://www.styleseat.com/m/book/s/thesalonexpo-englewood6-nj
+
+booksy:
+  url: http://thesalonexpo.booksy.com
+  book_url: https://www.styleseat.com/m/book/v/
+  salon_url: https://www.styleseat.com/m/book/s/thesalonexpo-englewood6-nj
+# /VENDOR -------------------------
 
 team:
   - employee:

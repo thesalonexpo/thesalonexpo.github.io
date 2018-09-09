@@ -28,15 +28,8 @@
                 <p>
                   {{employee.info.specialties}}
                 </p>
-                {% if employee.styleseat_url %}
-                  <a href="{{site.styleseat.book_url}}{{employee.styleseat_url}}" target="_blank" class="btn btn-dark">Book {{employee.name}} Now</a>
-                {% endif %}
 
-                {% if employee.work_num_link %}
-                  <a href="tel:{{ site.work_num_link }}" class="btn btn-dark">
-                    Book {{employee.name}} Now
-                  </a>
-                {% endif %}
+                {% include vendor_partial.html %}
               </div>
             </div>
           {% endfor %}

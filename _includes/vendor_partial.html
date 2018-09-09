@@ -1,0 +1,11 @@
+{% if site.vendor.name == 'styleseat' %}
+  {% if employee.styleseat_url %}
+    <a href="{{site.styleseat.book_url}}{{employee.styleseat_url}}" target="_blank" class="btn btn-dark">Book {{employee.name}} Now</a>
+  {% endif %}
+{% endif %}
+
+{% if site.vendor.name == 'phone' %}
+  <a href="tel:{{ site.telephone_link }}" class="btn btn-dark">
+    Book {{employee.name}} Now
+  </a>
+{% endif %}
