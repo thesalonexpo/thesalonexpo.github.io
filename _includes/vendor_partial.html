@@ -4,6 +4,12 @@
   {% endif %}
 {% endif %}
 
+{% if site.vendor.name == 'booksy' %}
+  <a href="{{ site.booksy.book_url }}" target="_blank" class="btn btn-dark">
+    Click to Booksy {{employee.name}}
+  </a>
+{% endif %}
+
 {% if site.vendor.name == 'phone' %}
   <a href="tel:{{ site.telephone_link }}" class="btn btn-dark">
     Book {{employee.name}} Now

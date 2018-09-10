@@ -27,7 +27,7 @@ copyright: TheSalonExpo
 
 # VENDOR -------------------------
 vendor:
-  name: phone
+  name: booksy
 
 styleseat:
   url: https://www.styleseat.com/v/
@@ -36,8 +36,8 @@ styleseat:
 
 booksy:
   url: http://thesalonexpo.booksy.com
-  book_url: https://www.styleseat.com/m/book/v/
-  salon_url: https://www.styleseat.com/m/book/s/thesalonexpo-englewood6-nj
+  book_url: http://thesalonexpo.booksy.com
+  salon_url: http://thesalonexpo.booksy.com
 # /VENDOR -------------------------
 
 team:
