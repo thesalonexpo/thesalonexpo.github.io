@@ -217,6 +217,10 @@ hr.small {
     padding: 50px 0;
 }
 
+.team {
+    display: none;
+}
+
 .service-item,
 .team-item {
     margin-bottom: 30px;
