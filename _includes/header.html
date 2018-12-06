@@ -2,11 +2,10 @@
   <div class="text-vertical-center">
     <h1><span class="white-text">The Salon</span> Expo</h1>
     <br>
-    <h4 class="address">
-      {% for address in site.address %}
-      {{ address.line }}<br>
-      {% endfor %}
-    </h4>
+    <a class="btn btn-dark btn-lg book-now"
+      target="_blank"
+      href="https://www.google.com/maps/reserve/merchant?m=SJiM05jN65Q&source=pa&gei=VZcIXJTTMpGZ5gKA7KTgDg&sourceurl=https://www.google.com/search?q%3Dthe%2Bsalon%2Bexpo%26spell%3D1%26sa%3DX%26ved%3D0ahUKEwjgttDIn4rfAhXOqlkKHZoCBKEQBQgrKAA">Book Now!</a>
+    <br>
     <h3 class="phone">
       <p class="btn btn-dark btn-lg">
         <i class="fa fa-phone fa-fw"></i>
@@ -15,9 +14,10 @@
         </a>
       </p>
     </h3>
-    <br>
-    <a class="btn btn-dark btn-lg book-now"
-      target="_blank"
-      href="https://www.google.com/maps/reserve/merchant?m=SJiM05jN65Q&source=pa&gei=VZcIXJTTMpGZ5gKA7KTgDg&sourceurl=https://www.google.com/search?q%3Dthe%2Bsalon%2Bexpo%26spell%3D1%26sa%3DX%26ved%3D0ahUKEwjgttDIn4rfAhXOqlkKHZoCBKEQBQgrKAA">Book Now!</a>
+    <h4 class="address">
+      {% for address in site.address %}
+      {{ address.line }}<br>
+      {% endfor %}
+    </h4>
   </div>
 </header>
