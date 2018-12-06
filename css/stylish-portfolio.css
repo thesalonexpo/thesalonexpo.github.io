@@ -197,7 +197,7 @@ hr.small {
 }
 
 .header .phone i {
-    color: #D32F2F;
+    color: #fff; /*#D32F2F*/
 }
 
 .white-text {
