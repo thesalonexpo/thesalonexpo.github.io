@@ -197,13 +197,13 @@ hr.small {
 }
 
 .header .phone i,
-.header .phone a {
+.header a.book-now {
     font-size: 24px;
     color: #fff; /*#D32F2F*/
 }
 
-.header .phone a:focus,
-.header .phone a:hover {
+.header a.book-now:focus,
+.header a.book-now:hover {
     color: #fff;
 }
 
