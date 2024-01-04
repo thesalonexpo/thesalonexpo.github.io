@@ -3,7 +3,7 @@ title: The Salon Expo
 description: > # this means to ignore newlines until "baseurl:"
   The Salon Expo is a top of the line salon in Englewood, NJ.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://TheSalonExpo.com" # the base hostname & protocol for your site
+url: "https://SalonExpo.Studio" # the base hostname & protocol for your site
 
 # User setting
 owner: The Salon Expo
@@ -119,7 +119,7 @@ team:
   #   info:
   #     position: Barber
   #     specialties: Fades and Beards
-  
+
 salon_specials:
   available: false
   info:
@@ -135,7 +135,7 @@ salon_specials:
 
 
 # API settings
-google_api_key: AIzaSyCqWFE4rQFKvlE7YPMqC4WTi0Sd9eeiVDI
+google_api_key: AIzaSyBl6ZstLuE6kgyqY4uZNFEZUIxu9W0uE3Y
 
 # Build settings
 markdown: kramdown
